@@ -1,0 +1,107 @@
+.HMainSection {
+    background-image: url("UI-Designers.jpg");
+    background-size: 100vw;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+
+.mainH {
+    padding-top: 5%;
+    text-align: center;
+    font-size: 64px;
+    font-style: black;
+    font-weight: bold;
+}
+
+.subTitle {
+    font-size: 48px;
+}
+
+.about {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: 611px;
+    height: 88px;
+    margin-left: 30%;
+    margin-top: 2%;
+    margin-right: 30%;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 75px;
+    text-align: center;
+    color: #000000;
+}
+
+.abH {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: 690px;
+    height: 219px;
+    margin-left: 50%;
+    margin-top: 2%;
+    margin-right: 30%;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #000000;
+}
+
+.tex3 {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: 690px;
+    height: 219px;
+    margin-left: 22%;
+    margin-top: 15%;
+    margin-right: 50%;
+    padding-left: 5%;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #000000;
+}
+
+.head3 {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: 632px;
+    height: 184px;
+    margin-left: 50%;
+    margin-top: 13%;
+    margin-right: 25%;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 75px;
+    text-align: center;
+    color: #000000;
+}
+
+.sec5 {
+    margin-top: 1%;
+    background-image: url("contactus.jpg");
+    background-size: 100vw;
+    height: 300px;
+}
+
+.info1,
+.info2,
+.info3 {
+    padding-top: 2%;
+    color: white;
+    padding-left: 5%;
+    float: left;
+}
